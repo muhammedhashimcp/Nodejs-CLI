@@ -1,0 +1,15 @@
+{
+  "name": "own-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "generate-example-env.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "generate-env-example": "./generate-env-example.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
